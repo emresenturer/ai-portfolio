@@ -1,4 +1,4 @@
-# Ainur Kayupova — Creative Portfolio
+# Ainur Kayupova: Creative Portfolio
 
 Welcome! This repository showcases my **multimedia, web design, and AI-enhanced creative projects**.  
 Here you’ll find examples of websites, photography, video, motion graphics, and interactive digital solutions.  
