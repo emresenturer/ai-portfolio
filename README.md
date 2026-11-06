@@ -7,7 +7,7 @@ Here you’ll find examples of websites, photography, video, motion graphics, an
 
 Website: [ainurmedia.com](https://www.ainurmedia.com)  
 Email: **contact@ainurmedia.com**  
-GitHub: [github.com/ainurmedia](https://github.com/ainurmedia)
+GitHub: [github.com/emresenturer/ai-portfolio](https://github.com/emresenturer/ai-portfolio)
 
 ---
 
@@ -51,6 +51,6 @@ GitHub: [github.com/ainurmedia](https://github.com/ainurmedia)
 
 - Email: **contact@ainurmedia.com**  
 - Website: [ainurmedia.com](https://www.ainurmedia.com)  
-- GitHub: [github.com/ainurmedia](https://github.com/ainurmedia)
+- GitHub: [github.com/emresenturer/ai-portfolio](https://github.com/emresenturer/ai-portfolio)
 
 > “I combine creativity, technology, and AI tools to deliver multimedia experiences that inspire and engage.”
