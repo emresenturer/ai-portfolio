@@ -35,7 +35,7 @@ GitHub: [github.com/ainurmedia](https://github.com/ainurmedia)
 - **Description:** Exploration of AI tools for generative art, video, and web content  
 - **Tech:** MidJourney, DALL·E, Runway ML  
 - **Highlights:** AI-assisted design mockups, interactive creative demos  
-- **Repo:** [Project 4](projects/project4/README.md)
+- **Showcase:** [ainurmedia.com](https://www.ainurmedia.com)
 
 ---
 
